@@ -1,4 +1,3 @@
-
 let currentPage = 'home';
 let scrollProgress = 0;
 let isMobileMenuOpen = false;
