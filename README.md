@@ -38,4 +38,4 @@ A modern, clean, and fully **responsive landing page** designed to deliver an op
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   [git clone https://github.com/your-username/your-repo-name.git](https://github.com/lubainaa-28/OIBSIP-WebDesign-Task1.git)
